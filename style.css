@@ -1,0 +1,67 @@
+body{
+	background-color: blue;
+	color: white;
+	font-family: Brush Script MT;
+}
+
+h1{
+	font-family: Jokerman;
+}
+button{
+text-decoration: none;
+width: 40%;
+height: 50px;
+margin: 25px;
+font-size: 20px;
+padding: 3px;
+background-color: yellow;
+margin-left: auto;
+margin-right: auto;
+border-radius: 2rem;
+color: yellow;
+}
+
+.l{
+height: 800px;
+width: 950px;
+}
+
+.h{
+margin-top: -3rem;
+}
+
+.i{
+margin-top: -3rem;
+}
+
+.j{
+height: 455px;
+width: 630px;
+}
+
+body a{
+	text-decoration: none; 
+	color: red;  
+}
+
+h1{
+	font-size: 60px;
+    right: 50%;
+    left: 50%
+}
+
+h2{
+	font-size: 50px;
+}
+
+h3{
+	font-size: 40px;
+}
+
+h4{
+	font-size: 30px;
+}
+
+p {
+	font-size: 29.9px;
+}
